@@ -1,0 +1,53 @@
+{
+  "Viewer Version": "1.2.9",
+  "Sensor0": {
+    "DEVICE": {
+      "MODELNAME": "Surf.Finder-WV",
+      "IPADDRESS": "192.168.10.170",
+      "PORTNUMBER": 1026
+    },
+    "CAMERA": {
+      "ModelName": "UI337xCP-M",
+      "Address": "2",
+      "GlobalExposureTime": 19.993800000000004,
+      "PixelClock": 344.0,
+      "FrameRate": 21.447815533980581
+    },
+    "PROCESS": {
+      "ExposureTime": 19.993800000000004,
+      "PROCESS#0": {
+        "PatternFilePath": "C:\\DeeDiim\\Pattern\\WV-XY_20201015.dpat",
+        "ChangeColor": "CYAN",
+        "ProcessOption": "{\"Algorithm\":\"Basic\",\"Pattern Name\":\"XY\",\"RangeParam\":{\"IN2\":{\"CopyResult\":false,\"Max\":1,\"Min\":0},\"INH\":{\"CopyResult\":true,\"Max\":1,\"Min\":0},\"INV\":{\"CopyResult\":true,\"Max\":1,\"Min\":0},\"ParamList\":[\"REF\",\"RGH\",\"RGV\",\"RG2\",\"INH\",\"INV\",\"IN2\"],\"REF\":{\"CopyResult\":true,\"Max\":255,\"Min\":0},\"RG2\":{\"CopyResult\":false,\"Max\":1,\"Min\":0},\"RGH\":{\"CopyResult\":false,\"Max\":1,\"Min\":0},\"RGV\":{\"CopyResult\":false,\"Max\":1,\"Min\":0}},\"ReferenceParam\":{\"Alpha\":{\"Value\":0},\"AutoAlign\":{\"Value\":0},\"AutoMaxOffset\":{\"Value\":50},\"AutoRoiBorder\":{\"Value\":80},\"AutoRoiFilterType\":{\"Value\":0},\"AutoRoiHeight\":{\"Value\":1224},\"AutoRoiSigma\":{\"Value\":20},\"AutoRoiSx\":{\"Value\":208},\"AutoRoiSy\":{\"Value\":412},\"AutoRoiWidth\":{\"Value\":1632},\"HOR_Param1\":{\"Value\":3272},\"HOR_Param2\":{\"Value\":1015},\"HOR_Param3\":{\"Value\":\"Positive\"},\"Moving\":{\"Value\":0},\"OffsetX\":{\"Value\":0},\"OffsetY\":{\"Value\":0},\"ParamList\":[\"HOR_Param3\",\"HOR_Param1\",\"HOR_Param2\",\"VER_Param3\",\"VER_Param1\",\"VER_Param2\",\"Moving\",\"OffsetX\",\"OffsetY\",\"Alpha\",\"AutoAlign\",\"AutoRoiSx\",\"AutoRoiSy\",\"AutoRoiWidth\",\"AutoRoiHeight\",\"AutoRoiBorder\",\"AutoRoiSigma\",\"AutoRoiFilterType\",\"AutoMaxOffset\"],\"VER_Param1\":{\"Value\":3599},\"VER_Param2\":{\"Value\":1000},\"VER_Param3\":{\"Value\":\"Negative\"}}}\n",
+        "ResultOption": "{\"REF\":true,\"RGH\":false,\"RGV\":false,\"RG2\":false,\"INH\":true,\"INV\":true,\"IN2\":false}",
+        "UseExposureControl": false,
+        "ExposureTimeValue": 10.0
+      }
+    }
+  },
+  "Sensor1": {
+    "DEVICE": {
+      "MODELNAME": "Surf.Finder-WV",
+      "IPADDRESS": "192.168.20.180",
+      "PORTNUMBER": 1026
+    },
+    "CAMERA": {
+      "ModelName": "UI337xCP-M",
+      "Address": "1",
+      "GlobalExposureTime": 16.9938,
+      "PixelClock": 344.0,
+      "FrameRate": 21.447815533980581
+    },
+    "PROCESS": {
+      "ExposureTime": 16.9938,
+      "PROCESS#0": {
+        "PatternFilePath": "C:\\DeeDiim\\Pattern\\WV-XY_20201015.dpat",
+        "ChangeColor": "CYAN",
+        "ProcessOption": "{\"Algorithm\":\"Basic\",\"Pattern Name\":\"XY\",\"RangeParam\":{\"IN2\":{\"CopyResult\":false,\"Max\":1,\"Min\":0},\"INH\":{\"CopyResult\":true,\"Max\":1,\"Min\":0},\"INV\":{\"CopyResult\":true,\"Max\":1,\"Min\":0},\"ParamList\":[\"REF\",\"RGH\",\"RGV\",\"RG2\",\"INH\",\"INV\",\"IN2\"],\"REF\":{\"CopyResult\":true,\"Max\":255,\"Min\":0},\"RG2\":{\"CopyResult\":false,\"Max\":1,\"Min\":0},\"RGH\":{\"CopyResult\":false,\"Max\":1,\"Min\":0},\"RGV\":{\"CopyResult\":false,\"Max\":1,\"Min\":0}},\"ReferenceParam\":{\"Alpha\":{\"Value\":0},\"AutoAlign\":{\"Value\":0},\"AutoMaxOffset\":{\"Value\":50},\"AutoRoiBorder\":{\"Value\":80},\"AutoRoiFilterType\":{\"Value\":0},\"AutoRoiHeight\":{\"Value\":1224},\"AutoRoiSigma\":{\"Value\":20},\"AutoRoiSx\":{\"Value\":208},\"AutoRoiSy\":{\"Value\":412},\"AutoRoiWidth\":{\"Value\":1632},\"HOR_Param1\":{\"Value\":3078},\"HOR_Param2\":{\"Value\":987},\"HOR_Param3\":{\"Value\":\"Positive\"},\"Moving\":{\"Value\":0},\"OffsetX\":{\"Value\":0},\"OffsetY\":{\"Value\":0},\"ParamList\":[\"HOR_Param3\",\"HOR_Param1\",\"HOR_Param2\",\"VER_Param3\",\"VER_Param1\",\"VER_Param2\",\"Moving\",\"OffsetX\",\"OffsetY\",\"Alpha\",\"AutoAlign\",\"AutoRoiSx\",\"AutoRoiSy\",\"AutoRoiWidth\",\"AutoRoiHeight\",\"AutoRoiBorder\",\"AutoRoiSigma\",\"AutoRoiFilterType\",\"AutoMaxOffset\"],\"VER_Param1\":{\"Value\":3375},\"VER_Param2\":{\"Value\":1012},\"VER_Param3\":{\"Value\":\"Negative\"}}}\n",
+        "ResultOption": "{\"REF\":true,\"RGH\":false,\"RGV\":false,\"RG2\":false,\"INH\":true,\"INV\":true,\"IN2\":false}",
+        "UseExposureControl": false,
+        "ExposureTimeValue": 10.0
+      }
+    }
+  }
+}
